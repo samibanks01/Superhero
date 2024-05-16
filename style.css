@@ -3,9 +3,17 @@ body {
     margin: 2rem;
   }
   
+  header {
+    background-color: #4CAF50; // #3f51b5
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+
   h1 {
     text-align: center;
     font-size: 1.5rem;
+    color: white;
   }
   
   .question {
